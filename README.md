@@ -1,6 +1,6 @@
 ## Olá, eu sou o Raphael 👋
-<div> 
-   <p font-weight:bold>Esperiencias:</p>
+<div font-weight: bold> 
+   <p>Esperiencias:</p>
 </div>
 
 <div style="display: inline_block"><br>
