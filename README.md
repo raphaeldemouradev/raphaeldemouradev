@@ -13,9 +13,8 @@
 <h2></h2>
 <div>
    <i>Estou Desenvolvendo esta parte de "Projetos" podem conter alguns erros ou faltar informaçõe e creditos</i>
-
    
-   <strong>Confira alguns projetos</strong>
+   <h1>Confira alguns projetos</h1>
 
    <strong>Meus Projetos:</strong>
    <ul>
