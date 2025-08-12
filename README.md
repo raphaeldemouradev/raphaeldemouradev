@@ -13,7 +13,6 @@
 <h2></h2>
 
 <div>
-   <i>Estou Desenvolvendo esta parte de "Projetos" podem conter alguns erros ou faltar informaçõe e creditos</i>
    <h2>Confira alguns projetos</h2>
 
    <strong>Meus Projetos:</strong>
@@ -26,6 +25,4 @@
       <li>Mudar de cor com Botao: https://raphaeldemouradev.github.io/troca-de-cor/</li>
       <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
    </ul>
-
-   <strong>Projetos de Cursos:</strong>
 </div>
