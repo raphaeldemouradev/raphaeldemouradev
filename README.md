@@ -9,12 +9,11 @@
    <img align="center" alt="img-html5" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="img-css3" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
-<br>
 <h2></h2>
 <div>
    <i>Estou Desenvolvendo esta parte de "Projetos" podem conter alguns erros ou faltar informaçõe e creditos</i>
    
-   <strong style="font-size: 20px;">Confira alguns projetos</strong>
+   <h2>Confira alguns projetos</h2>
 
    <strong>Meus Projetos:</strong>
    <ul>
