@@ -25,4 +25,10 @@
       <li>Mudar de cor com Botao: https://raphaeldemouradev.github.io/troca-de-cor/</li>
       <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
    </ul>
+
+   <strong>Projetos de Cursos</strong>
+   <ul>
+      <li>Projeto Android (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-android/</li>
+      <li>Projeto Cordel de Milton Duarte (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-cordel/</li>
+   </ul>
 </div>
