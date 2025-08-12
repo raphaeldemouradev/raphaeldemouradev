@@ -27,7 +27,7 @@
    </ul>
 
    <br>
-   <strong text-decoration: underline>Projetos de Cursos:</strong>
+   <strong font-size: 30px;>Projetos de Cursos:</strong>
       <br>Curso em vídeo - <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Link para Canal no YouTube<a> 
    <ul>
       <li>Projeto Android (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-android/</li>
