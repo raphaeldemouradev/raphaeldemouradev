@@ -9,15 +9,16 @@
    <img align="center" alt="img-html5" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="img-css3" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
+
 <h2></h2>
+
 <div>
    <i>Estou Desenvolvendo esta parte de "Projetos" podem conter alguns erros ou faltar informaçõe e creditos</i>
-   
    <h2>Confira alguns projetos</h2>
 
    <strong>Meus Projetos:</strong>
    <ul>
-      <li>Mudar de cor com Botao: "https://raphaeldemouradev.github.io/troca-de-cor/"</li>
+      <li>Mudar de cor com Botao: [Clique aqui](https://raphaeldemouradev.github.io/troca-de-cor/)</li>
    </ul>
 
    <strong>Projetos de Cursos:</strong>
