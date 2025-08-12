@@ -14,11 +14,11 @@
 <div>
    <i>Estou Desenvolvendo esta parte de "Projetos" podem conter alguns erros ou faltar informaçõe e creditos</i>
    
-   <h1 style="text-decoration: none;">Confira alguns projetos</h1>
+   <strong style="font-size: 20px;">Confira alguns projetos</strong>
 
    <strong>Meus Projetos:</strong>
    <ul>
-      <li>Mudar de cor com Botao: [Acesse aqui]("https://raphaeldemouradev.github.io/troca-de-cor/"!)</li>
+      <li>Mudar de cor com Botao: "https://raphaeldemouradev.github.io/troca-de-cor/"</li>
    </ul>
 
    <strong>Projetos de Cursos:</strong>
