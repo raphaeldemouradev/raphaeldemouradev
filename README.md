@@ -26,8 +26,10 @@
       <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
    </ul>
 
+   <br>
    <strong>Projetos de Cursos</strong>
    <ul>
+      <p>Curso em vídeo - [Link para canal do youtube](https://www.youtube.com/c/CursoemV%C3%ADdeo)</p>
       <li>Projeto Android (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-android/</li>
       <li>Projeto Cordel de Milton Duarte (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-cordel/</li>
    </ul>
