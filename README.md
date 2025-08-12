@@ -14,7 +14,7 @@
 <div>
    <i>Estou Desenvolvendo esta parte de "Projetos" podem conter alguns erros ou faltar informaçõe e creditos</i>
    
-   <h1>Confira alguns projetos</h1>
+   <h1 style="text-decoration: none;">Confira alguns projetos</h1>
 
    <strong>Meus Projetos:</strong>
    <ul>
