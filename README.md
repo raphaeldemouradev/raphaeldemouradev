@@ -18,7 +18,13 @@
 
    <strong>Meus Projetos:</strong>
    <ul>
-      <li>Mudar de cor com Botao: [Clique aqui](https://raphaeldemouradev.github.io/troca-de-cor/)</li>
+      <li>Jogo de Pedra, Papel e Tesoura (Jokenpô): https://raphaeldemouradev.github.io/pedra-papel-tesoura/</li>
+      <li>Lista de tarefas (Mobile): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
+      <li>Calcule com dois campos de digito: https://raphaeldemouradev.github.io/calcule-com-dois/</li>
+      <li>Relogio Digital: https://raphaeldemouradev.github.io/relogio-digital/</li>
+      <li>Calcular o IMC: https://raphaeldemouradev.github.io/imc/</li>
+      <li>Mudar de cor com Botao: https://raphaeldemouradev.github.io/troca-de-cor/</li>
+      <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
    </ul>
 
    <strong>Projetos de Cursos:</strong>
