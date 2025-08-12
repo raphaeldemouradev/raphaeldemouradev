@@ -31,13 +31,13 @@
    
    <p>Curso em Vídeo - <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Link para Canal do YouTube<a></p> 
    <ul>
-      <li>Projeto Android (Curso em Vídeo): "https://raphaeldemouradev.github.io/projeto-android/"</li>
-      <li>Projeto Cordel de Milton Duarte (Curso em Vídeo): "https://raphaeldemouradev.github.io/projeto-cordel/"</li>
+      <li>Projeto Android (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-android</li>
+      <li>Projeto Cordel de Milton Duarte (Curso em Vídeo): <a herf="https://raphaeldemouradev.github.io/projeto-cordel/">Clique aqui para Conferir</a></li>
    </ul>
 
    <br>
    <p>Bruno Paulino - <a href="https://www.youtube.com/@brunoPaulino">Link para Canal do YouTube</a></p>
    <ul>
-      <li>Projeto Kanban (React para Iniciantes): "https://rrmpll.csb.app/"</li>
+      <li>Projeto Kanban (React para Iniciantes): https://rrmpll.csb.app/</li>
    </ul>
 </div>
