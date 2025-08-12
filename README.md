@@ -27,8 +27,8 @@
    </ul>
 
    <br>
-   <strong>Projetos de Cursos</strong>
-      <br>Curso em vídeo - [Link para canal do youtube](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+   <strong>Projetos de Cursos:</strong>
+      <br>Curso em vídeo - <a herf="https://www.youtube.com/c/CursoemV%C3%ADdeo"> Link <a> 
    <ul>
       <li>Projeto Android (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-android/</li>
       <li>Projeto Cordel de Milton Duarte (Curso em Vídeo): https://raphaeldemouradev.github.io/projeto-cordel/</li>
