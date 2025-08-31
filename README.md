@@ -23,6 +23,7 @@
       <li>Relogio Digital: https://raphaeldemouradev.github.io/relogio-digital/</li>
       <li>Calcular o IMC: https://raphaeldemouradev.github.io/imc/</li>
       <li>Mudar de cor com Botao: https://raphaeldemouradev.github.io/troca-de-cor/</li>
+      <li>Tabuada: https://raphaeldemouradev.github.io/tabuada/</li>
       <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
    </ul>
 
