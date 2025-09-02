@@ -11,6 +11,7 @@
    <img align="center" alt="css3-icon" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
+<br>
 <div>
    <h2>Confira alguns projetos</h2>
 
