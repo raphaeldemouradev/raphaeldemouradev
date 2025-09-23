@@ -16,7 +16,7 @@
 <div>
    <h2>Confira alguns projetos</h2>
    
-   <strong>Meu melhor projeto em desenvolvimento: https://raphaeldemouradev.github.io/interatividade-testes/</strong>
+   <strong>Meu melhor projeto em desenvolvimento: https://raphaeldemouradev.github.io/interatividade/</strong>
 
    <strong>Meus Projetos:</strong>
    <ul>
