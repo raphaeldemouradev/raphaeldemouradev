@@ -17,12 +17,15 @@
 <div>
    <h2>Confira alguns projetos</h2>
 
-   <strong>Projetos em Destaque:</strong>
-   <br>
-   <strong>Streaming/Catalogo (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</strong><br>
-   <strong>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</strong>
-
    <strong>Meus Projetos:</strong>
+   <ul>
+      <strong>Projetos em Destaque:</strong>
+      <br>
+      <li>Streaming/Catalogo (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</li>
+      <br>
+      <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
+
+   </ul>
    <ul>
       <li>Jogo de Pedra, Papel e Tesoura (Jokenpô): https://raphaeldemouradev.github.io/pedra-papel-tesoura/</li>
       <li>Lista de tarefas (Mobile): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
