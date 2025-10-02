@@ -17,8 +17,9 @@
 <div>
    <h2>Confira alguns projetos</h2>
 
-   <strong>Projetos em Destaque:</strong><br>
-   <strong>Streaming/Catalogo (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</strong>
+   <strong>Projetos em Destaque:</strong>
+   <br>
+   <strong>Streaming/Catalogo (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</strong><br>
    <strong>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</strong>
 
    <strong>Meus Projetos:</strong>
