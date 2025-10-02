@@ -21,7 +21,7 @@
    <ul>
       <strong>Projetos meus em Destaque:</strong>
       <br>
-      <li>Streaming/Catalogo (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</li>
+      <li>Streaming/Catalogo - Mobile/Web (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</li>
       <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
    </ul>
