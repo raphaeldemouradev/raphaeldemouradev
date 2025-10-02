@@ -16,8 +16,10 @@
 <br>
 <div>
    <h2>Confira alguns projetos</h2>
-   
-   <strong>Meu melhor projeto em desenvolvimento: https://raphaeldemouradev.github.io/interatividade/</strong>
+
+   <strong>Projetos em Destaque:</strong><br>
+   <strong>Streaming/Catalogo (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</strong>
+   <strong>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</strong>
 
    <strong>Meus Projetos:</strong>
    <ul>
