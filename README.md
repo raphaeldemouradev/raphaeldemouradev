@@ -41,7 +41,7 @@
    <strong>Projetos com Mentores</strong>
    <ul>
       <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
-      <li>Conversor de Moedas: https://projeto-conversor-de-moeda.netlify.app/</li>
+      <li>Conversor de Moedas - Mobile/Web: https://projeto-conversor-de-moeda.netlify.app/</li>
       <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
       <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
    </ul>
@@ -50,6 +50,12 @@
    <ul>
       <p>Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
       <li>Formulario: https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html</li>
+   </ul>
+
+   <br>
+   <ul>
+      <p>Sujeito Programador - <a herf="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
+      <li>Gerador de senhas - Mobile/Web: https://projeto-gerador-senhas.netlify.app/</li>
    </ul>
 
    <br>
