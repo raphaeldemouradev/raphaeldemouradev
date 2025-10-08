@@ -54,7 +54,7 @@
 
    <br>
    <ul>
-      <p>Sujeito Programador - <a herf="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
+      <p>Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
       <li>Gerador de senhas - Mobile/Web: https://projeto-gerador-senhas.netlify.app/</li>
    </ul>
 
