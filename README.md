@@ -4,6 +4,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+   <img align="center" alt="figma" heigth="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
    <img align="center" alt="figma" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
    <img align="center" alt="vite" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
    <img align="center" alt="expo-icon" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
