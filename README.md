@@ -4,10 +4,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="canva-icon" heigth="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" />
+   <img align="center" alt="GIMP-icon" heigth="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" />
    <img align="center" alt="canva-icon" heigth="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
    <img align="center" alt="figma-icon" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-   <br>
    <img align="center" alt="vite-icon" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
    <img align="center" alt="expo-icon" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
    <img align="center" alt="react-icon" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
