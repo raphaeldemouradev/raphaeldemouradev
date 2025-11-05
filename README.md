@@ -23,7 +23,7 @@
    <ul>
       <strong>Projetos meus em Destaque:</strong>
       <br>
-      <li>Streaming/Catalogo - Mobile/Web (Em Desenvolvimento): https://streaming-by-catalogo.netlify.app/</li>
+      <li>Catalogo de Filmes - Web (Em Desenvolvimento): https://prototipo-catalogo.netlify.app/</li>
       <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
    </ul>
