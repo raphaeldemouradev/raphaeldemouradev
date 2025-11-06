@@ -23,6 +23,7 @@
    <ul>
       <strong>Projetos meus em Destaque:</strong>
       <br>
+      <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
       <li>Catalogo de Filmes - Web (Em Desenvolvimento): https://prototipo-catalogo.netlify.app/</li>
       <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
