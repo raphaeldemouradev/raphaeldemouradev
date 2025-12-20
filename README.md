@@ -25,7 +25,7 @@
 
    <strong>Meus Projetos:</strong>
    <ul>
-      <strong>Projetos meus em Destaque:</strong>
+      <strong>Projetos Profissionais:</strong>
       <br>
       <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
       <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
