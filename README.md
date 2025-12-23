@@ -46,7 +46,7 @@
    </ul>
 
    <br>
-   <strong>Projetos com Mentores</strong>
+   <strong>Projetos com Mentores e Professores</strong>
    <ul>
       <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
       <li>Conversor de Moedas - Mobile/Web: https://projeto-conversor-de-moeda.netlify.app/</li>
