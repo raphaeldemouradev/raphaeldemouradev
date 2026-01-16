@@ -44,7 +44,7 @@
       <br>
       <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
       <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
-      <li>Catalogo de Filmes - Web (Em Desenvolvimento): https://prototipo-catalogo.netlify.app/</li>
+      <li>Catalogo de Filmes - Web (Em Desenvolvimento): https://catalogo-logtv.netlify.app/</li>
       <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
    </ul>
@@ -73,6 +73,12 @@
    <ul>
       <p>Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
       <li>Formulario: https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html</li>
+   </ul>
+   
+   <br>
+   <ul>
+      <p>Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
+      <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
    </ul>
 
    <br>
