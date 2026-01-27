@@ -43,10 +43,10 @@
       <strong>Projetos Profissionais:</strong>
       <br>
       <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
+      <li>Repositorio com I.A: https://github.com/raphaeldemouradev/projeto-com-i.a</li>
       <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
       <li>Catalogo de Filmes - Web (Em Desenvolvimento): https://catalogo-logtv.netlify.app/</li>
       <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
-
    </ul>
    <ul>
       <strong>Projetos tecnicos:</strong>
