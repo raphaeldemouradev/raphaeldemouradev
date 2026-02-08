@@ -69,9 +69,9 @@
       <div>
          <ins><strong>Projetos com Professores e Mentores</strong></ins>
       </div>
-      <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
       <ul>
-         <li>Conversor de Moedas - Mobile/Web: https://projeto-conversor-de-moeda.netlify.app/</li>
+         <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
+         <li>Conversor de Moedas - Mobile: <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a>/</li>
          <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
          <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
       </ul>
