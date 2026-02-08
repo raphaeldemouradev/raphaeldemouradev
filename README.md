@@ -42,7 +42,7 @@
 
    <section>
       <div>
-         <ins><strong>Meus Projetos:</strong></ins>
+         <ins><strong>-> Meus Projetos:</strong></ins>
       </div>
       <ul>
          <strong>💼Projetos Profissionais:</strong>
@@ -67,7 +67,7 @@
 
    <section>
       <div>
-         <ins><strong>Projetos com Professores e Mentores</strong></ins>
+         <ins><strong>-> Projetos com Professores e Mentores</strong></ins>
       </div>
       <ul>
          <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
@@ -96,7 +96,7 @@
    </section>
 
    <br>
-   <strong>Projetos de Cursos:</strong>
+   <strong>-> Projetos de Cursos:</strong>
    
    <p>Curso em Vídeo - <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Link para Canal do YouTube<a></p> 
    <ul>
