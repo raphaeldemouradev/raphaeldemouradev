@@ -36,29 +36,32 @@
 
 <br>
 <div>
-   <h2>Confira alguns projetos</h2>
+   <div>
+      <h2>Confira alguns projetos</h2>
+   </div>
 
-   <strong>Meus Projetos:</strong>
-   <ul>
-      <strong>Projetos Profissionais:</strong>
-      <br>
-      <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
-      <li>Repositorio com I.A: https://github.com/raphaeldemouradev/projeto-com-i.a</li>
-      <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
-      <li>Catalogo de Filmes - Web (Em Desenvolvimento): https://catalogo-logtv.netlify.app/</li>
-      <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
-   </ul>
-   <ul>
-      <strong>Projetos tecnicos:</strong>
-      <li>Jogo de Pedra, Papel e Tesoura (Jokenpô): https://raphaeldemouradev.github.io/pedra-papel-tesoura/</li>
-      <li>Lista de tarefas (Mobile): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
-      <li>Calcule com dois campos de digito: https://raphaeldemouradev.github.io/calcule-com-dois/</li>
-      <li>Relogio Digital: https://raphaeldemouradev.github.io/relogio-digital/</li>
-      <li>Calcular o IMC: https://raphaeldemouradev.github.io/imc/</li>
-      <li>Mudar de cor com Botao: https://raphaeldemouradev.github.io/troca-de-cor/</li>
-      <li>Tabuada: https://raphaeldemouradev.github.io/tabuada/</li>
-      <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
-   </ul>
+   <section>
+      <strong style="background-color: #ff0000; padding: 10">Meus Projetos:</strong>
+      <ul>
+         <strong>Projetos Profissionais:</strong>
+         <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
+         <li>Repositorio com I.A: https://github.com/raphaeldemouradev/projeto-com-i.a</li>
+         <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
+         <li>Catalogo de Filmes - Web (Em Desenvolvimento): https://catalogo-logtv.netlify.app/</li>
+         <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
+      </ul>
+      <ul>
+         <strong>Projetos tecnicos:</strong>
+         <li>Jogo de Pedra, Papel e Tesoura (Jokenpô): https://raphaeldemouradev.github.io/pedra-papel-tesoura/</li>
+         <li>Lista de tarefas (Mobile): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
+         <li>Calcule com dois campos de digito: https://raphaeldemouradev.github.io/calcule-com-dois/</li>
+         <li>Relogio Digital: https://raphaeldemouradev.github.io/relogio-digital/</li>
+         <li>Calcular o IMC: https://raphaeldemouradev.github.io/imc/</li>
+         <li>Mudar de cor com Botao: https://raphaeldemouradev.github.io/troca-de-cor/</li>
+         <li>Tabuada: https://raphaeldemouradev.github.io/tabuada/</li>
+         <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
+      </ul>
+   </section>
 
    <br>
    <strong>Projetos com Mentores e Professores</strong>
