@@ -41,8 +41,8 @@
    </div>
 
    <section>
-      <div>
-         <h2><ins>Meus Projetos:</ins></h2>
+      <div style="font-size: 20">
+         <ins><strong>Meus Projetos:</strong></ins>
       </div>
       <ul>
          <strong>Projetos Profissionais:</strong>
