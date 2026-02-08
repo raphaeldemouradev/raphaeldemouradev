@@ -42,7 +42,7 @@
 
    <section>
       <div>
-         <ins><strong>-> Meus Projetos:</strong></ins>
+         <ins><strong>Meus Projetos:</strong></ins>
       </div>
       <ul>
          <strong>💼Projetos Profissionais:</strong>
@@ -67,10 +67,10 @@
 
    <section>
       <div>
-         <ins><strong>-> Projetos com Professores e Mentores</strong></ins>
+         <ins><strong>Projetos com Professores e Mentores</strong></ins>
       </div>
       <ul>
-         <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
+         <p>-> DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
          <li>Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a></li>
          <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
          <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
@@ -78,19 +78,19 @@
 
    <br>
    <ul>
-      <p>Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
+      <p>-> Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
       <li>Formulario: https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html</li>
    </ul>
    
    <br>
    <ul>
-      <p>Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
+      <p>-> Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
       <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
    </ul>
 
    <br>
    <ul>
-      <p>Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
+      <p>-> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
       <li>Gerador de senhas - Mobile/Web: https://projeto-gerador-senhas.netlify.app/</li>
    </ul>
    </section>
