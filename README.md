@@ -65,14 +65,16 @@
       </ul>
    </section>
 
-   <br>
-   <strong>Projetos com Mentores e Professores</strong>
-   <ul>
+   <section>
+      <div>
+         <ins><strong>Projetos com Professores e Mentores</strong></ins>
+      </div>
       <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
-      <li>Conversor de Moedas - Mobile/Web: https://projeto-conversor-de-moeda.netlify.app/</li>
-      <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
-      <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
-   </ul>
+      <ul>
+         <li>Conversor de Moedas - Mobile/Web: https://projeto-conversor-de-moeda.netlify.app/</li>
+         <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
+         <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
+      </ul>
 
    <br>
    <ul>
@@ -91,6 +93,7 @@
       <p>Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
       <li>Gerador de senhas - Mobile/Web: https://projeto-gerador-senhas.netlify.app/</li>
    </ul>
+   </section>
 
    <br>
    <strong>Projetos de Cursos:</strong>
