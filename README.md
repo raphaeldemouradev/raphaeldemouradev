@@ -42,7 +42,7 @@
 
    <section>
       <div style="font-size: 20">
-         <strong>Meus Projetos:</strong>
+         ###<strong>Meus Projetos:</strong>
       </div>
       <ul>
          <strong>Projetos Profissionais:</strong>
