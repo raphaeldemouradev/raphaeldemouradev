@@ -41,7 +41,7 @@
    </div>
 
    <section>
-      <div style="background-color: #ff0000; padding: 10px;">
+      <div style="font-size: 20">
          <strong>Meus Projetos:</strong>
       </div>
       <ul>
