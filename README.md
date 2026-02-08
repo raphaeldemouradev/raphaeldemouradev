@@ -55,7 +55,7 @@
       <ul>
          <strong>🛠Projetos tecnicos:</strong>
          <li>Jogo de Pedra, Papel e Tesoura (Jokenpô): https://raphaeldemouradev.github.io/pedra-papel-tesoura/</li>
-         <li>Lista de tarefas (Mobile): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
+         <li>Lista de tarefas (Web): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
          <li>Calcule com dois campos de digito: https://raphaeldemouradev.github.io/calcule-com-dois/</li>
          <li>Relogio Digital: https://raphaeldemouradev.github.io/relogio-digital/</li>
          <li>Calcular o IMC: https://raphaeldemouradev.github.io/imc/</li>
@@ -71,7 +71,7 @@
       </div>
       <ul>
          <p>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
-         <li>Conversor de Moedas - Mobile: <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a>/</li>
+         <li>Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a></li>
          <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
          <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
       </ul>
