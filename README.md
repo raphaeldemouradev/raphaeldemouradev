@@ -41,11 +41,11 @@
    </div>
 
    <section>
-      <div style="font-size: 20;">
+      <div>
          <ins><strong>Meus Projetos:</strong></ins>
       </div>
       <ul>
-         <strong>Projetos Profissionais:</strong>
+         <strong>💼Projetos Profissionais:</strong>
          <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
          <li>Repositorio com I.A: https://github.com/raphaeldemouradev/projeto-com-i.a</li>
          <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
@@ -53,7 +53,7 @@
          <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
       </ul>
       <ul>
-         <strong>Projetos tecnicos:</strong>
+         <strong>🛠Projetos tecnicos:</strong>
          <li>Jogo de Pedra, Papel e Tesoura (Jokenpô): https://raphaeldemouradev.github.io/pedra-papel-tesoura/</li>
          <li>Lista de tarefas (Mobile): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
          <li>Calcule com dois campos de digito: https://raphaeldemouradev.github.io/calcule-com-dois/</li>
