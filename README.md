@@ -42,7 +42,7 @@
 
    <section>
       <div>
-         **<ins>Meus Projetos:</ins> **
+         <h2><ins>Meus Projetos:</ins></h2>
       </div>
       <ul>
          <strong>Projetos Profissionais:</strong>
