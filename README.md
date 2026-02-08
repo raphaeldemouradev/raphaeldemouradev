@@ -41,7 +41,7 @@
    </div>
 
    <section>
-      <div style="font-size: 20">
+      <div style="font-size: 20;">
          <ins><strong>Meus Projetos:</strong></ins>
       </div>
       <ul>
