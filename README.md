@@ -42,7 +42,7 @@
 
    <section>
       <div>
-         ### Meus Projetos:
+         <ins>Meus Projetos:</ins>
       </div>
       <ul>
          <strong>Projetos Profissionais:</strong>
