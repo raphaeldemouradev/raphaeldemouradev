@@ -41,7 +41,9 @@
    </div>
 
    <section>
-      <strong style="background-color: #ff0000; padding: 10px";>Meus Projetos:</strong>
+      <div style="background-color: #ff0000; padding: 10px;">
+         <strong>Meus Projetos:</strong>
+      </div>
       <ul>
          <strong>Projetos Profissionais:</strong>
          <li>Meu Portfolio: https://raphaeldemouradev.github.io/my-portfolio/</li>
