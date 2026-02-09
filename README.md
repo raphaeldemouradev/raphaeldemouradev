@@ -89,8 +89,8 @@
       <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
    </ul>
       <div>
+         <p>-> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
          <ul>
-            <p>-> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
             <li>Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a></li>
          </ul>
       </div>
