@@ -70,7 +70,7 @@
          <ins><strong>Projetos com Professores e Mentores</strong></ins>
       </div>
       <div>
-         <p>—>DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
+         <p>> DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
          <ul>
             <li>Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a></li>
             <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
@@ -89,7 +89,7 @@
       <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
    </ul>
       <div>
-         <p>—> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
+         <p>> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
          <ul>
             <li>Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a></li>
          </ul>
