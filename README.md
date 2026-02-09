@@ -83,11 +83,12 @@
             <li>Formulario: <a href="https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html">Link</a></li>
          </ul>
       </div>
-   <br>
-   <ul>
-      <p>-> Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
-      <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
-   </ul>
+      <div>
+         <p>> Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
+         <ul>
+            <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
+         </ul>
+      </div>
       <div>
          <p>> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
          <ul>
