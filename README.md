@@ -69,13 +69,14 @@
       <div>
          <ins><strong>Projetos com Professores e Mentores</strong></ins>
       </div>
-      <ul>
-         <p>-> DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
-         <li>Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a></li>
-         <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
-         <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
-      </ul>
-
+      <div>
+         <ul>
+            <p>-> DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
+            <li>Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a></li>
+            <li>Previsão do Tempo: https://raphaeldemouradev.github.io/previsao-do-tempo/</li>
+            <li>Formulario: https://github.com/raphaeldemouradev/formularios-de-mentores/blob/main/formulario-DevClub/Formulario/index.html</li>
+         </ul>
+      </div>
    <br>
    <ul>
       <p>-> Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
@@ -87,12 +88,12 @@
       <p>-> Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
       <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
    </ul>
-
-   <br>
-   <ul>
-      <p>-> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
-      <li>Gerador de senhas - Mobile/Web: https://projeto-gerador-senhas.netlify.app/</li>
-   </ul>
+      <div>
+         <ul>
+            <p>-> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
+            <li>Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a></li>
+         </ul>
+      </div>
    </section>
 
    <br>
