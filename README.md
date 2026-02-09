@@ -67,7 +67,7 @@
 
    <section>
       <div>
-         <ins><strong>Projetos com Professores e Mentores</strong></ins>
+         <ins><strong>Projetos com Professores e Mentores:</strong></ins>
       </div>
       <div>
          <p>> DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
@@ -78,9 +78,9 @@
          </ul>
       </div>
       <div>
+         <p>> Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
          <ul>
-            <p>-> Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
-            <li>Formulario: https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html</li>
+            <li>Formulario: <a href="https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html">Link</a></li>
          </ul>
       </div>
    <br>
@@ -97,7 +97,7 @@
    </section>
 
    <br>
-   <strong>-> Projetos de Cursos:</strong>
+   <strong>Projetos de Cursos:</strong>
    
    <p>Curso em Vídeo - <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Link para Canal do YouTube<a></p> 
    <ul>
