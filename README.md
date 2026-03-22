@@ -47,7 +47,7 @@
       <ul>
          <strong>💼Projetos Profissionais:</strong>
          <li>Meu Portfolio: https://portfolio-raphael-dev.netlify.app/</li>
-         <li>Site teste TV: testetv-blog.vercel.app</li>
+         <li>Site teste TV: https://testetv-blog.vercel.app</li>
          <li>Repositorio com I.A: https://github.com/raphaeldemouradev/projeto-com-i.a</li>
          <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
          <li>Catalogo de Filmes (Web): https://catalogo-logtv.netlify.app/</li>
