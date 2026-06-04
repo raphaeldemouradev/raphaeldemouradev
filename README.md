@@ -1,4 +1,30 @@
-## Olá, eu sou o Raphael 👋
+<div>
+  <img src="https://i.pinimg.com/736x/00/a7/81/00a781cc93f26bc0b753e18b240673e2.jpg" width="100%" style="height: 200px; max-width: 100%; object-fit: cover;" />
+
+  <br />
+
+  # Olá, eu sou o Raphael 👋
+  
+  ### Desenvolvedor Front-end & UI/UX Designer
+  
+  <p>
+    Criando interfaces modernas, funcionais e de alta performance. <br />
+    Especializado em transformar wireframes e conceitos de design em código limpo, escalável e focado na experiência do usuário.
+  </p>
+
+<!-- Espaço para Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/raphael-moura-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/raphaeldemouradev/">
+    <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</div>
+</div>
+
+---
+
 <div> 
    <strong>Experiências:</strong>
 </div>
