@@ -55,6 +55,7 @@
 
 ### 📐 Design & UI/UX
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 <img src="https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
 <img src="https://img.shields.io/badge/UI%2FUX%20Design-000000?style=for-the-badge&logo=ux&logoColor=white" alt="UI/UX" />
 <img src="https://img.shields.io/badge/Wireframing-4A90E2?style=for-the-badge&logo=wireframe&logoColor=white" alt="Wireframing" />
