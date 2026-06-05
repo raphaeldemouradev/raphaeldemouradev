@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.pinimg.com/736x/00/a7/81/00a781cc93f26bc0b753e18b240673e2.jpg" width="100%" style="height: 200px; max-width: 100%; object-fit: cover;" />
+  <img src="https://i.pinimg.com/736x/00/a7/81/00a781cc93f26bc0b753e18b240673e2.jpg" width="100%" style="min-height: 100px; max-height: 150px; max-width: 100%; object-fit: cover;" />
 
   <br />
 
@@ -42,6 +42,7 @@
 ### ⚙️ Back-end
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
