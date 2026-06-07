@@ -63,11 +63,15 @@
 
 ---
 
-<div>
-   <div>
-      <h2>Confira alguns projetos</h2>
-   </div>
+## 🚀 Portfólio & Projetos | Evolução de Carreira
 
+Confira meus projetos e aprendizado adquiridos durante a minha evolução! </br>
+Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentores. 
+
+### 🌟 Projetos Autorais (Em Destaque)
+*Aqui você vai conferir os projetos onde estou dando mais atenção, eles frequentemente tem atualizações, estão em desenvolvimento constante*
+
+<div>
    <section>
       <div>
          <ins><strong>Meus Projetos:</strong></ins>
