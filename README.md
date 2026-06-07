@@ -69,9 +69,13 @@ Confira meus projetos e aprendizado adquiridos durante a minha evolução! </br>
 Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentores. 
 
 ### 🌟 Projetos Autorais (Em Destaque)
-*Aqui você vai conferir os projetos/repositórios onde estou dando mais atenção, eles frequentemente tem atualizações, estão em desenvolvimento constante.*
+*Aqui você vai conferir os projetos/repositórios onde estou ou foi dado mais atenção, eles frequentemente tem atualizações, estão em desenvolvimento constante ou RECOMENDADOS.*
 
 * **[Repositorio com I.A](https://github.com/raphaeldemouradev/projeto-com-i.a)** — testes com inteligência artificial, enfrentando desafios e criação de soluções e aplicações.
+  * *Techs:* `IAs` `Node.js` `Tailwind CSS` `Javascript` `TypeScript`
+* **[Catalogo de Filmes (Web)](https://catalogo-logtv.netlify.app/)** —
+
+### 📚 Projetos Autorais (Tecnicos)
 
 <div>
    <section>
