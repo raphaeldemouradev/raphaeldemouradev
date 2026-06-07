@@ -69,7 +69,9 @@ Confira meus projetos e aprendizado adquiridos durante a minha evolução! </br>
 Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentores. 
 
 ### 🌟 Projetos Autorais (Em Destaque)
-*Aqui você vai conferir os projetos onde estou dando mais atenção, eles frequentemente tem atualizações, estão em desenvolvimento constante*
+*Aqui você vai conferir os projetos/repositórios onde estou dando mais atenção, eles frequentemente tem atualizações, estão em desenvolvimento constante.*
+
+* **[Repositorio com I.A](https://github.com/raphaeldemouradev/projeto-com-i.a)** — testes com inteligência artificial, enfrentando desafios e criação de soluções e aplicações.
 
 <div>
    <section>
@@ -80,7 +82,6 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
          <strong>💼Projetos Profissionais:</strong>
          <li>Meu Portfolio: https://portfolio-raphael-dev.netlify.app/</li>
          <li>Site teste TV: https://testetv-blog.vercel.app</li>
-         <li>Repositorio com I.A: https://github.com/raphaeldemouradev/projeto-com-i.a</li>
          <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
          <li>Catalogo de Filmes (Web): https://catalogo-logtv.netlify.app/</li>
          <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
