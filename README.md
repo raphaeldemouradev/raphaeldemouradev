@@ -77,6 +77,15 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 
 ### 📚 Projetos Autorais (Tecnicos)
 
+* **[Jogo de Pedra, Papel e Tesoura - Jokenpô (Web)](https://raphaeldemouradev.github.io/pedra-papel-tesoura/)** — 
+* **[Lista de Tarefas (Web)](https://raphaeldemouradev.github.io/lista-de-tarefas/)** — 
+* **[Calcule com Dois Campos de Dígito (Web)](https://raphaeldemouradev.github.io/calcule-com-dois/)** — 
+* **[Relógio Digital (Web)](https://raphaeldemouradev.github.io/relogio-digital/)** — 
+* **[Calcular o IMC (Web)](https://raphaeldemouradev.github.io/imc/)** — 
+* **[Mudar de Cor com Botão (Web)](https://raphaeldemouradev.github.io/troca-de-cor/)** — 
+* **[Tabuada (Web)](https://raphaeldemouradev.github.io/tabuada/)** — 
+* **[Contagem Numérica (Web)](https://raphaeldemouradev.github.io/contagem-numerica/)** —
+
 <div>
    <section>
       <div>
@@ -87,19 +96,7 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
          <li>Meu Portfolio: https://portfolio-raphael-dev.netlify.app/</li>
          <li>Site teste TV: https://testetv-blog.vercel.app</li>
          <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
-         <li>Catalogo de Filmes (Web): https://catalogo-logtv.netlify.app/</li>
          <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
-      </ul>
-      <ul>
-         <strong>🛠Projetos tecnicos:</strong>
-         <li>Jogo de Pedra, Papel e Tesoura (Jokenpô): https://raphaeldemouradev.github.io/pedra-papel-tesoura/</li>
-         <li>Lista de tarefas (Web): https://raphaeldemouradev.github.io/lista-de-tarefas/</li>
-         <li>Calcule com dois campos de digito: https://raphaeldemouradev.github.io/calcule-com-dois/</li>
-         <li>Relogio Digital: https://raphaeldemouradev.github.io/relogio-digital/</li>
-         <li>Calcular o IMC: https://raphaeldemouradev.github.io/imc/</li>
-         <li>Mudar de cor com Botao: https://raphaeldemouradev.github.io/troca-de-cor/</li>
-         <li>Tabuada: https://raphaeldemouradev.github.io/tabuada/</li>
-         <li>Contagem númerica: https://raphaeldemouradev.github.io/contagem-numerica/</li>
       </ul>
    </section>
 
