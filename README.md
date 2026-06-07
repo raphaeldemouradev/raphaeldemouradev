@@ -75,6 +75,11 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
   * *Techs:* `IAs` `Node.js` `Tailwind CSS` `Javascript` `TypeScript`
 * **[Catalogo de Filmes (Web)](https://catalogo-logtv.netlify.app/)** —
 
+ <li>Meu Portfolio: https://portfolio-raphael-dev.netlify.app/</li>
+ <li>Site teste TV: https://testetv-blog.vercel.app</li>
+ <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
+ <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
+
 ### 📚 Projetos Autorais (Tecnicos)
 
 * **[Jogo de Pedra, Papel e Tesoura - Jokenpô (Web)](https://raphaeldemouradev.github.io/pedra-papel-tesoura/)** — 
@@ -87,19 +92,6 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 * **[Contagem Numérica (Web)](https://raphaeldemouradev.github.io/contagem-numerica/)** —
 
 <div>
-   <section>
-      <div>
-         <ins><strong>Meus Projetos:</strong></ins>
-      </div>
-      <ul>
-         <strong>💼Projetos Profissionais:</strong>
-         <li>Meu Portfolio: https://portfolio-raphael-dev.netlify.app/</li>
-         <li>Site teste TV: https://testetv-blog.vercel.app</li>
-         <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
-         <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
-      </ul>
-   </section>
-
    <section>
       <div>
          <ins><strong>Projetos com Professores e Mentores:</strong></ins>
