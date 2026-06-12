@@ -95,7 +95,7 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 *Aplicações desenvolvidas com validação técnica de profissionais e foco em arquitetura de código.*
 *Aprendizados em geral, avançado e dicas de mercado.*
 
-* **[DevClub - Youtube](https://www.youtube.com/@canaldevclub)** — <br>
+* **[DevClub - Youtube](https://www.youtube.com/@canaldevclub)**<br>
 |- Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a><br>
 |- Previsão do Tempo (web): <a href="https://raphaeldemouradev.github.io/previsao-do-tempo/">Link</a><br>
 |- Formulario (Repositório): <a href="https://github.com/raphaeldemouradev/formularios-de-mentores/tree/main/formulario-DevClub">Link</a>
@@ -109,10 +109,8 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 * **[Sujeito Programador - Youtube](https://www.youtube.com/c/sujeitoprogramador)**<br>
 |- Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a>
 
-<div>
-   <br>
-   <strong>Projetos de Cursos:</strong>
-   
+🎓 ### Projetos e Desafios de Cursos
+<div>   
    <p>Curso em Vídeo - <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Link para Canal do YouTube<a></p> 
    <ul>
       <li>Projeto Android (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-android/">Clique aqui para Conferir🔗</a></li>
