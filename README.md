@@ -100,25 +100,16 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 |- Previsão do Tempo (web): <a href="https://raphaeldemouradev.github.io/previsao-do-tempo/">Link</a><br>
 |- Formulario (Repositório): <a href="https://github.com/raphaeldemouradev/formularios-de-mentores/tree/main/formulario-DevClub">Link</a>
 
-* **[Rafaella Ballerini - Youtube](https://www.youtube.com/user/RafaellaBallerini)**
+* **[Rafaella Ballerini - Youtube](https://www.youtube.com/user/RafaellaBallerini)**<br>
 |- Formulario: <a href="https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html">Link</a>
 
-<div>
-   <section>
-      <div>
-         <p>> Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
-         <ul>
-            <li>Catálogo de filmes: https://prototipo-catalogo.netlify.app/</li>
-         </ul>
-      </div>
-      <div>
-         <p>> Sujeito Programador - <a href="https://www.youtube.com/c/sujeitoprogramador">Link para Canal no YouTube</a></p>
-         <ul>
-            <li>Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a></li>
-         </ul>
-      </div>
-   </section>
+* **[Matheus Battisti - Youtube](https://www.youtube.com/@MatheusBattisti)**<br>
+|- Formulario: Catálogo de filmes: [Link](https://prototipo-catalogo.netlify.app/)
 
+* **[Sujeito Programador - Youtube](https://www.youtube.com/c/sujeitoprogramador)**<br>
+|- Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a>
+
+<div>
    <br>
    <strong>Projetos de Cursos:</strong>
    
