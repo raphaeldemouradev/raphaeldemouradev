@@ -95,19 +95,16 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 *Aplicações desenvolvidas com validação técnica de profissionais e foco em arquitetura de código.*
 *Aprendizados em geral, avançado e dicas de mercado.*
 
-* **[DevClub - Youtube](https://www.youtube.com/@canaldevclub)** — Descrição curta do objetivo do projeto e qual problema ele resolve.<br>
+* **[DevClub - Youtube](https://www.youtube.com/@canaldevclub)** — <br>
 |- Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a><br>
 |- Previsão do Tempo (web): <a href="https://raphaeldemouradev.github.io/previsao-do-tempo/">Link</a><br>
 |- Formulario (Repositório): <a href="https://github.com/raphaeldemouradev/formularios-de-mentores/tree/main/formulario-DevClub">Link</a>
 
+* **[Rafaella Ballerini - Youtube](https://www.youtube.com/user/RafaellaBallerini)**
+|- Formulario: <a href="https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html">Link</a>
+
 <div>
    <section>
-      <div>
-         <p>> Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
-         <ul>
-            <li>Formulario: <a href="https://raphaeldemouradev.github.io/formularios-de-mentores/formulario-RafaellaBallerini/index.html">Link</a></li>
-         </ul>
-      </div>
       <div>
          <p>> Matheus Battisti - <a href="https://www.youtube.com/@MatheusBattisti">Link para Canal no YouTube</a></p>
          <ul>
