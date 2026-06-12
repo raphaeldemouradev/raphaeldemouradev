@@ -72,15 +72,15 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 *Aqui você vai conferir os projetos/repositórios onde estou ou foi dado mais atenção, eles frequentemente tem atualizações, estão em desenvolvimento constante ou RECOMENDADOS.*
 
 * **[Repositorio com I.A](https://github.com/raphaeldemouradev/projeto-com-i.a)** — testes com inteligência artificial, enfrentando desafios e criação de soluções e aplicações.
-  * *Techs:* `IAs` `Node.js` `Tailwind CSS` `Javascript` `TypeScript`
+  * *Techs:* `Node.js` `Tailwind CSS` `Javascript` `TypeScript`
+* **[Site teste TV](https://testetv-blog.vercel.app)** —
+* **[Previsão do Tempo](https://raphaeldemouradev.github.io/projeto-clima/)** —
 * **[Catalogo de Filmes (Web)](https://catalogo-logtv.netlify.app/)** —
 
  <li>Meu Portfolio: https://portfolio-raphael-dev.netlify.app/</li>
- <li>Site teste TV: https://testetv-blog.vercel.app</li>
- <li>Previsão do Tempo https://raphaeldemouradev.github.io/projeto-clima/</li>
  <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
-### 📚 Projetos Autorais (Tecnicos)
+### 📚 Projetos Tecnicos (Estudos)
 
 * **[Jogo de Pedra, Papel e Tesoura - Jokenpô (Web)](https://raphaeldemouradev.github.io/pedra-papel-tesoura/)** — 
 * **[Lista de Tarefas (Web)](https://raphaeldemouradev.github.io/lista-de-tarefas/)** — 
@@ -91,19 +91,17 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 * **[Tabuada (Web)](https://raphaeldemouradev.github.io/tabuada/)** — 
 * **[Contagem Numérica (Web)](https://raphaeldemouradev.github.io/contagem-numerica/)** —
 
+### 👥 Projetos com Mentoria & Professores
+*Aplicações desenvolvidas com validação técnica de profissionais e foco em arquitetura de código.*
+*Aprendizados em geral, avançado e dicas de mercado.*
+
+* **[DevClub - Youtube](href="https://www.youtube.com/@canaldevclub)** — Descrição curta do objetivo do projeto e qual problema ele resolve.<br>
+|- Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a><br>
+|- Previsão do Tempo (web): <a href="https://raphaeldemouradev.github.io/previsao-do-tempo/">Link</a><br>
+|- Formulario (Repositório): <a href="https://github.com/raphaeldemouradev/formularios-de-mentores/tree/main/formulario-DevClub">Link</a>
+
 <div>
    <section>
-      <div>
-         <ins><strong>Projetos com Professores e Mentores:</strong></ins>
-      </div>
-      <div>
-         <p>> DevClub - <a href="https://www.youtube.com/@canaldevclub">Link para Canal no YouTube</a></p>
-         <ul>
-            <li>Conversor de Moedas - (Mobile): <a href="https://projeto-conversor-de-moeda.netlify.app">Link</a></li>
-            <li>Previsão do Tempo (web): <a href="https://raphaeldemouradev.github.io/previsao-do-tempo/">Link</a></li>
-            <li>Formulario (Repositório): <a href="https://github.com/raphaeldemouradev/formularios-de-mentores/tree/main/formulario-DevClub">Link</a></li>
-         </ul>
-      </div>
       <div>
          <p>> Rafaella Ballerini - <a href="https://www.youtube.com/user/RafaellaBallerini">Link para Canal no YouTube</a></p>
          <ul>
