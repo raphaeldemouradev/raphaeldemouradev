@@ -77,7 +77,6 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 * **[Previsão do Tempo](https://raphaeldemouradev.github.io/projeto-clima/)** —
 * **[Catalogo de Filmes (Web)](https://catalogo-logtv.netlify.app/)** —
 
- <li>Meu Portfolio: https://portfolio-raphael-dev.netlify.app/</li>
  <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
 ### 📚 Projetos Tecnicos (Estudos)
@@ -124,4 +123,20 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
    <ul>
       <li>Projeto Kanban (React para Iniciantes): https://rrmpll.csb.app/</li>
    </ul>
+</div>
+
+---
+
+## 🌐 Conheça Meu Trabalho Completo
+
+Conheça meus projetos profissionais oficiais lançados, acesse meus canais oficiais:
+
+<div align="center">
+  <br />
+  <a href="https://www.linkedin.com/in/raphael-moura-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Acesse_Meu_Portfólio-000?style=for-the-badge&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://hyper-pop.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visite_Meu_Site-000?style=for-the-badge&logoColor=white" alt="Site Oficial" />
+  </a>
 </div>
