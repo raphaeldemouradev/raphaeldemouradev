@@ -109,7 +109,7 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 * **[Sujeito Programador - Youtube](https://www.youtube.com/c/sujeitoprogramador)**<br>
 |- Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a>
 
-🎓 ### Projetos e Desafios de Cursos
+### 🎓 Projetos e Desafios de Cursos
 <div>   
    <p>Curso em Vídeo - <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Link para Canal do YouTube<a></p> 
    <ul>
