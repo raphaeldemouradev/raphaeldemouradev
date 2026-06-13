@@ -78,7 +78,7 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 * **[Catalogo de Filmes (Web)](https://catalogo-logtv.netlify.app/)** — Utilizando o consumo da API do IMDB, projeto com tratamento de erros profissionais, interface montada com o pensamento em UX.
   * *Techs:* `React.js` `Javascript` `API REST`
 * **[Previsão do Tempo (Web)](https://raphaeldemouradev.github.io/projeto-clima/)** — aprender a utilizar API de terceiro, em tempo real para chegar a previsão do tempo para 5 dias, criado usado API doo pen Weather Map
-* *Techs:* `Javascript` `Consumo de API` 
+  * *Techs:* `Javascript` `Consumo de API` 
 
  <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
@@ -112,21 +112,15 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 |- Gerador de senhas - (Mobile): <a href="https://projeto-gerador-senhas.netlify.app/">Link</a>
 
 ### 🎓 Projetos e Desafios de Cursos
-<div>   
-   <p>Curso em Vídeo - <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Link para Canal do YouTube<a></p> 
-   <ul>
-      <li>Projeto Android (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-android/">Clique aqui para Conferir🔗</a></li>
-      <li>Projeto Cordel de Milton Duarte (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-cordel/">Clique aqui para Conferir🔗</a></li>
-      <li>Projeto Social (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-social/">Clique aqui para Conferir🔗</a></li>
-      <li>Projeto Login (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-login/">Clique aqui para Conferir🔗</a></li>
-   </ul>
 
-   <br>
-   <p>Bruno Paulino - <a href="https://www.youtube.com/@brunoPaulino">Link para Canal do YouTube</a></p>
-   <ul>
-      <li>Projeto Kanban (React para Iniciantes): https://rrmpll.csb.app/</li>
-   </ul>
-</div>
+* **[Curso em Vídeo - Youtube](https://www.youtube.com/c/CursoemV%C3%ADdeo)**<br>
+|- Projeto Android (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-android/">Link</a><br>
+|- Projeto Cordel de Milton Duarte (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-cordel/">Link</a><br>
+|- Projeto Social (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-social/">Link</a><br>
+|- Projeto Login (Curso em Vídeo): <a href="https://raphaeldemouradev.github.io/projeto-login/">Link</a>
+
+* **[Bruno Paulino - Youtube](https://www.youtube.com/@brunoPaulino)**<br>
+|- Projeto Kanban (React para Iniciantes): <a href="https://rrmpll.csb.app/">Link (Code SabdBox)</a>
 
 ---
 
