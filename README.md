@@ -80,8 +80,6 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 * **[Previsão do Tempo (Web)](https://raphaeldemouradev.github.io/projeto-clima/)** — aprender a utilizar API de terceiro, em tempo real para chegar a previsão do tempo para 5 dias, criado usado API doo pen Weather Map
   * *Techs:* `Javascript` `Consumo de API` 
 
- <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
-
 ### 📚 Projetos Tecnicos (Estudos)
 
 * **[Jogo de Pedra, Papel e Tesoura - Jokenpô (Web)](https://raphaeldemouradev.github.io/pedra-papel-tesoura/)** — 
