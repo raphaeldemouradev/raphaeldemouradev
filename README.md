@@ -73,9 +73,12 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 
 * **[Repositorio com I.A](https://github.com/raphaeldemouradev/projeto-com-i.a)** — testes com inteligência artificial, enfrentando desafios e criação de soluções e aplicações.
   * *Techs:* `Node.js` `Tailwind CSS` `Javascript` `TypeScript`
-* **[Site teste TV](https://testetv-blog.vercel.app)** —
-* **[Previsão do Tempo](https://raphaeldemouradev.github.io/projeto-clima/)** —
-* **[Catalogo de Filmes (Web)](https://catalogo-logtv.netlify.app/)** —
+* **[Site teste TV](https://testetv-blog.vercel.app)** — MVP do Hyper Pop, serviu para validar as Ideas que seriam utilizadas no site oficial, entender as tecnologias do mercado: Next.js, Tailwind e CMS.
+  * *Techs:* `Next.js` `Tailwind CSS` `Javascript` `TypeScript` `CMS` `API RESTFULL`
+* **[Catalogo de Filmes (Web)](https://catalogo-logtv.netlify.app/)** — Utilizando o consumo da API do IMDB, projeto com tratamento de erros profissionais, interface montada com o pensamento em UX.
+  * *Techs:* `React.js` `Javascript` `API REST`
+* **[Previsão do Tempo (Web)](https://raphaeldemouradev.github.io/projeto-clima/)** — aprender a utilizar API de terceiro, em tempo real para chegar a previsão do tempo para 5 dias, criado usado API doo pen Weather Map
+* *Techs:* `Javascript` `Consumo de API` 
 
  <li>Projeto com interação (Em Desenvolvimento): https://raphaeldemouradev.github.io/interatividade/</li>
 
