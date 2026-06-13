@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.pinimg.com/736x/00/a7/81/00a781cc93f26bc0b753e18b240673e2.jpg" width="100%" style="max-height: 90px; max-width: 100%; object-fit: cover;" />
+  <img src="https://i.pinimg.com/736x/00/a7/81/00a781cc93f26bc0b753e18b240673e2.jpg" width="100%" style="max-height: 80px; max-width: 100%; object-fit: cover;" />
 
   <br />
 
@@ -127,6 +127,8 @@ Aqui você vai encontrar: meus projetos, projetos de cursos e professores/mentor
 
 ---
 
+<div align="center">
+  
 ## 🌐 Conheça Meu Trabalho Completo
 
 Conheça meus projetos profissionais oficiais lançados, acesse meus canais oficiais:
@@ -140,3 +142,4 @@ Conheça meus projetos profissionais oficiais lançados, acesse meus canais ofic
     <img src="https://img.shields.io/badge/🌐_Visite_Meu_Site-000?style=for-the-badge&logoColor=white" alt="Site Oficial" />
   </a>
 </div>
+<div/>
